@@ -4,7 +4,7 @@ package frc.robot.Util;
 
 public class RobotMap
 {
-    public static final class MAP_CONTROLLER
+    public static final class MAP_CONTROLLERS
     {
         public static final int LEFT_JOYSTICK = 0;
         public static final int RIGHT_JOYSTICK = 1;
