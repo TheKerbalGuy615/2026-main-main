@@ -2,7 +2,7 @@ package frc.robot.Util;
 
 import edu.wpi.first.wpilibj2.command.button.CommandJoystick;
 import edu.wpi.first.wpilibj2.command.button.CommandXboxController;
-import frc.robot.Util.RobotMap.MAP_CONTROLLER;
+import frc.robot.MAP_CONTROLLER;
 
 public class Controllers {
     public CommandJoystick leftStick, rightStick;
